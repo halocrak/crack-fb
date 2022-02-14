@@ -1,2 +1,2 @@
-import m
-m.halo()
+import halo
+halo.halo()
